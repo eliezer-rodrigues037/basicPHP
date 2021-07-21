@@ -106,7 +106,7 @@
         <?php
         for ($i = 0; $i < 10; $i++) {
             print("<h3>Sessão "  . $i . "</h3>");
-            print("<div class=\"AccordionText\"> Faz de conta que tem um textão legal aki </div>");
+            print("<div class=\"AccordionText\"> Faz de conta que tem um textão legal aki</div>");
         }
         ?>
     </div>
